@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Desktop view
 
-![desktop-view](https://github.com/Skippo-Jnr/social-proof-section-master/blob/b26cdde0f4efa3cd4c00bedd6669458f00a0abeb/screenshots/desktop-design.jpeg)
+![desktop-view](https://github.com/SkippoJnr/social-links-profile/blob/fd9cf43d17032a2d355e567384b3e000cbff52a5/screenshots/desktop-design.jpeg)
 
 ### Links
 
 - Solution URL: [Social links profile](https://your-solution-url.com)
-- Live Site URL: [Social links profile](https://your-live-site-url.com)
+- Live Site URL: [Social links profile] (https://skippojnr.github.io/social-links-profile/)
 
 ## My process
 
