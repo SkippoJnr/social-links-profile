@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Social links profile](https://your-solution-url.com)
-- Live Site URL: [Social links profile] (https://skippojnr.github.io/social-links-profile/)
+- Live Site URL: [Social links profile](https://skippojnr.github.io/social-links-profile/)
 
 ## My process
 
